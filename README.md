@@ -8,7 +8,7 @@ _Project designated for starting a material design project from scratch that wor
 
 **You can run these two snippets to upgrade from angular-cli to the new package @angular/cli.**
 
-`npm uninstall -g angular-cli
+npm uninstall -g angular-cli
 
 npm cache clean
 
@@ -23,7 +23,7 @@ npm install --save-dev @angular/cli@latest
 npm install
 
 ng update
-`
+
 
 _Sourcese of inspiration:_
 
