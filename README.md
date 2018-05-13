@@ -6,7 +6,7 @@ _Project designated for starting a material design project from scratch that wor
 
 **Happy cloning :)**
 
-**You can run these two snippets to upgrade from angular-cli to the new package @angular/cli.**
+**You can run these snippets to upgrade from angular-cli to the new package @angular/cli.**
 
 npm uninstall -g angular-cli
 
