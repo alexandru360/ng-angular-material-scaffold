@@ -6,7 +6,8 @@ _Project designated for starting a material design project from scratch that wor
 
 **Happy cloning :)**
 
-######You can run these two snippets to upgrade from angular-cli to the new package @angular/cli.
+**You can run these two snippets to upgrade from angular-cli to the new package @angular/cli.**
+
 `npm uninstall -g angular-cli
 
 npm cache clean
@@ -24,6 +25,7 @@ npm install
 ng update
 `
 
-######Sourcese of inspiration:
+_Sourcese of inspiration:_
+
 https://www.npmjs.com/package/angular-material-prefix-updater
 https://alligator.io/angular/angular-material-2/
